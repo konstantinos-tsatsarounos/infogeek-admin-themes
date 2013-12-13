@@ -3,8 +3,6 @@
 
 >__Tags__ : admin, color, theme, admin theme, admin color, backend, backend theme, new admin ui
 
->__Donate link__ : https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U7HZAL
-
 >__Requires at least__: 3.8
 
 >__Tested up to__ : 3.8
