@@ -1,0 +1,27 @@
+
+// core variables
+
+$text-color: #f5f5f5 !default;
+$base-color: #0074A3 !default;
+$icon-color: hsl(210, 100%, 10%) !default;
+$highlight-color: #d6ebff !default;
+$notification-color: hsl(210, 100%, 22%) !default;
+
+$menu-highlight-text: #000;
+$menu-highlight-icon: #000;
+
+$menu-submenu-background: darken( $base-color, 30% );
+
+// global
+
+$body-background: white !default;
+
+$link: hsl( 210, 100, 45% ) !default;
+$link-focus: darken( $link, 30% ) !default;
+
+$button-color: $base-color !default;
+$form-checked: $base-color !default;
+
+
+
+@import "../_admin.scss";
