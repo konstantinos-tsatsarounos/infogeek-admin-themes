@@ -26,7 +26,7 @@ Has the white as main color and blue as highlight. Is very clear theme for you b
 
 ####Infogeek High Contrast
 
-Has a main color of greenblue ( like the see ), secondary highlight colors of blue and black. Clear and helps much with distinction amount the different sections of the backend user interface.
+Has a main color of greenblue ( like the sea ), secondary highlight colors of blue and black. Clear and helps much with distinction amount the different sections of the backend user interface.
 
 ####XTND ( Extend )
 
