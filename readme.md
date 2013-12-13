@@ -44,7 +44,7 @@ A theme very close to the default theme but uses magenta instead of blue! Very n
 
 
 ###Frequently Asked Questions
-####How can add a new them within the plugin
+####How can add a new theme within the plugin
 >I dont recomment that because, you risk to loose your changes with an accidental update! But is fairly straight forward. You need to add a new wp_admin_css_color inside function infogeek_add_admin_themes ( look the others and just put you names and colors ).
 Secondly, you must go to the base-files folder. Change the variables  inside colors.scss and follow the instructions in readme.txt inside the folder.
 Then just, create a new folder inside colors and copy/paste the new files from theme to your newly created folder. If you don\'t make any mistake, you are done!
